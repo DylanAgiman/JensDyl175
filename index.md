@@ -7,7 +7,7 @@ In this short web page you will learn
 
 ### Jens
 
-Created in December of 1998, Mr. Tuyls has embarked on his software mission to change the world, one computer at a time. Standing at over 6 feet talll, Jens is impressive physically as well as mentally, and poses a formidable threat to all of his enemies.
+Created in December of 1998, Mr. Tuyls has embarked on his software mission to change the world, one computer at a time. Standing at over 6 feet tall, Jens is impressive physically as well as mentally, and poses a formidable threat to all of his enemies.
 
 ### Dylan
 
