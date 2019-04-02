@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to The Hottest Collaboration of the Century
 
-You can use the [editor on GitHub](https://github.com/DylanAgiman/JensDyl175/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In this short web page you will learn 
+- Everything you need to know about Machine Learning
+- All of the knowledge about AI
+- All of the above
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Jens
 
-### Markdown
+Created in December of 1998, Mr. Tuyls has embarked on his software mission to change the world, one computer at a time. Standing at over 6 feet talll, Jens is impressive physically as well as mentally, and poses a formidable threat to all of his enemies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dylan
 
-```markdown
-Syntax highlighted code block
+Born and raised in a small California town, Mr. Agiman burst out of the womb ready to tackle everything in his way. Although legally he may be allowed to drink, Dylan uses his superior self control to stay sober and in control of any situation.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DylanAgiman/JensDyl175/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### These two champions are ready to take over the world (pic unrelated) [Not Jens and Dylan](https://image1.masterfile.com/getImage/NjQxLTA2OTc2NjE1ZW4uMDAwMDAwMDA=AIgFZX/641-06976615en_Masterfile.jpg)
